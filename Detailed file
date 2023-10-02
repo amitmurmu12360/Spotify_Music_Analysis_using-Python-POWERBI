@@ -1,0 +1,105 @@
+# Spotify Music Analysis using Python & Power BI
+
+![Spotify Logo](spotify_logo.png)
+
+## Overview
+
+This project analyzes Spotify music data using Python and Power BI, providing insights into popular artists, energetic tracks, instrumental songs, and much more. The data sources include Kaggle and the Spotify API, ensuring comprehensive coverage.
+
+## Key Findings
+
+### 1. Top 10 Popular Artists
+
+- Drake: 16 songs
+- Rick Ross: 13 songs
+- Disclosure: 12 songs
+- Backstreet Boys: 10 songs
+- WALK THE MOON: 10 songs
+- FIDLAR: 9 songs
+- Crystal Castles: 9 songs
+- *NSYNC: 8 songs
+- Fall Out Boy: 8 songs
+- Michael Jackson: 8 songs
+
+### 2. Loudest Tracks
+
+- GodLovesUgly: -0.307
+- The Lion - Original Mix: -0.718
+- The Wall: -0.787
+- Hey Baby - Steve Aoki Remix: -0.935
+- No Absolution: -0.994
+
+### 3. Artists with the Most Danceable Songs
+
+- Ben Remember: Flashwind - Radio Edit (Danceability: 0.984)
+- Justin Timberlake: SexyBack (Danceability: 0.967)
+- Blaqstarr: Check Me Out Like (Danceability: 0.962)
+- Young Thug: Best Friend (Danceability: 0.959)
+- Vanilla Ice: Ice Ice Baby (Danceability: 0.959)
+
+### 4. Top 5 Instrumental Songs
+
+- Signs of the Swarm: Senseless Order (Instrumentalness: 0.976)
+- Prince Rama: So Destroyed (channeling Rage Peace) (Instrumentalness: 0.968)
+- Ray Bryant: A Hundred Dreams from Now (Instrumentalness: 0.964)
+- John Dahlbäck: Raven (Instrumentalness: 0.958)
+- Todd Terje: Strandbar (disko) (Instrumentalness: 0.957)
+
+### 5. Top 10 Energetic Tracks
+
+- Lyric Pieces, Book I Op. 12: I. Arietta (Energy: 0.0148)
+- String Quartet No. 4 in C Major, D. 46: II. Andante con moto (Energy: 0.0156)
+- Blue in Green (Energy: 0.0161)
+- Piano Quartet in E flat, Op.47: 3. Andante cantabile (Energy: 0.0230)
+- 8 Fantasiestücke, Op.12 : 1. Des Abends (Energy: 0.0288)
+- Blue and Sentimental (Energy: 0.0291)
+- I'm a Fool to Want You (Energy: 0.0295)
+- Mozart: Requiem in D Minor, K. 626: VIII. Lacrimosa (Energy: 0.0310)
+- Nocturne No.1 In B Flat Minor, Op.9 No.1 (Energy: 0.0347)
+
+### 6. Most Popular Artist
+
+- Drake: 16 songs
+
+### 7. Top 5 Tracks with Most Valence
+
+- Abataka - Original Mix (Valence: 0.992)
+- I'm Walkin' - 2002 Digital Remaster (Valence: 0.975)
+- To Roz Bikini (Itsy, Bitsy, Teenie, Weenie) (Valence: 0.974)
+- Look at You (Valence: 0.973)
+- Azon de ma gnin kpevi (Valence: 0.973)
+
+### 8. Most Trending Genre
+
+- Upbeat
+
+## Project Details
+
+### Handling Errors
+
+We encountered challenges like missing data, but we addressed them with Python error handling techniques.
+
+### Data Visualization
+
+To gain initial insights, we created various charts in Python, visualizing our findings.
+
+### Creating Genre Column
+
+The dataset lacked a 'genre' column, so we used a DAX function in Power BI to create it, enabling us to merge it with our Python data.
+
+### Data Merging
+
+We merged the Power BI and Python datasets to leverage the best of both worlds, creating the 'genre' column.
+
+## Key Learnings & Insights
+
+Throughout this journey, we learned valuable insights about music trends, data analysis, and the power of collaboration between Power BI and Python.
+
+---
+
+Thank you for exploring the world of music data with us. Stay tuned for more exciting projects!
+
+For more details, check out the [Jupyter Notebook](analysis.ipynb) and [Power BI report](power_bi_report.pbix) files.
+
+## Author
+
