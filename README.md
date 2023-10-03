@@ -42,7 +42,7 @@ This repository contains the code and analysis for performing Spotify music anal
 - `powerbi/`: Power BI project file for data visualization.
 - `README.md`: You're reading it right now!
 - [Link to my PDF](file:///C:/Users/amitm/Downloads/Final_Spotify_Final_Data_Analysis-github.pdf)
-- 
+
 
 ## Usage
 
