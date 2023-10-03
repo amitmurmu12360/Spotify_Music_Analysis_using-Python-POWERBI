@@ -41,7 +41,7 @@ This repository contains the code and analysis for performing Spotify music anal
 - `notebooks/`: Jupyter notebooks containing Python analysis code.
 - `powerbi/`: Power BI project file for data visualization.
 - `README.md`: You're reading it right now!
-- [Link to my PDF](file:///C:/Users/amitm/Downloads/Final_Spotify_Final_Data_Analysis-github.pdf)
+- [Link to my PDF](https://github.com/amitmurmu12360/Spotify_Music_Analysis_using-Python-POWERBI/blob/main/Final_Spotify_Final_Data_Analysis-github.pdf)
 
 
 ## Usage
